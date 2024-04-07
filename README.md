@@ -1,2 +1,2 @@
-# audio_to_text
-coverts the audio to text 
+# Audio To Text
+Coverts the audio file (which has to be in .wav format) to text 
